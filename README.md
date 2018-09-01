@@ -5,7 +5,7 @@ This is a log project recording all meet questions during my coding life
 - can be accessed easily(anywhere, anytime, and regardless of device as well as internet enviornment)
 - take full advantage of google SEO and search engine of github itself
 - take full advantage of Label use in Issues to classify
-- everyone should search issues, everyone may add issues, everyone could solve issues, use the intelligence of internet
+- use the intelligence of internet(everyone may search issues, add issues, and solve issues)
 
 ## How to use
 - just checkout the issues
